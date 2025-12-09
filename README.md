@@ -2,7 +2,9 @@
 UJIAN AKHIR SEMESETER DP 1
 
 Nama Project  : STOPWATCH & TIMER
+
 Nama Kelompok : Kelompok BabangTamvan 
+
 Anggota: 
 1.	251401037- Tora Eleazar Tarigan
 2.	251401025-Yuvensius Motifasi Daeli
