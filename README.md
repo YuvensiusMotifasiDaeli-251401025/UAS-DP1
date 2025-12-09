@@ -11,4 +11,4 @@ Anggota:
 
 Link Google Drive untuk Dokumentasi : https://drive.google.com/drive/folders/1mM17lpiL0i8NOMPWdQq5jhoBBWyKAkjr?usp=sharing
 
-Link Youtube hasil video : 
+Link Youtube hasil video : https://youtu.be/UvbTCa7nwAA?si=7u20GEKyHpbgZrg1
